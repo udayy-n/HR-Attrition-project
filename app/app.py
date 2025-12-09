@@ -91,7 +91,7 @@ st.subheader("🔥 Correlation Heatmap (Numeric Features Only)")
 numeric_df = df_filtered.select_dtypes(include='number')
 
 fig, ax = plt.subplots(figsize=(10,6))
-sns.heatmap(numeric_df.corr(), cmap="YlGnBu", linewidths=0.5, annot=True, ax=ax)
+sns.heatmap(numeric_df.corr(), cmap="YlGnBu", linewidths=0.5, annot=False, ax=ax)
 st.pyplot(fig)
 
 # -------- Boxplot --------

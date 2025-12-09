@@ -9,7 +9,7 @@ st.set_page_config(page_title="HR Attrition Dashboard", layout="wide")
 
 # ------------------ LOAD DATA ------------------
 df = pd.read_csv(
-    r"C:\Users\lenovo\python learn\Project py\Full Cap Project\Dataset\WA_Fn-UseC_-HR-Employee-Attrition.csv"
+    r"data/WA_Fn-UseC_-HR-Employee-Attrition.csv"
 )
 
 # ------------------ DASHBOARD TITLE ------------------

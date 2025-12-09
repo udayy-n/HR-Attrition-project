@@ -24,7 +24,11 @@ This project analyzes IBM's HR Employee Attrition dataset, builds ML models to p
 
 ---
 
-# 🎥 **Live Demo (GIF Preview)**  
+# 🎥 **Live Link 
+https://hrdashboard-a.streamlit.app/
+
+
+Department Wise Attrition
 https://github.com/udayy-n/HR-Attrition-project/blob/main/assets/Demo.gif
 
 

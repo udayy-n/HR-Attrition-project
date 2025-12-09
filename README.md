@@ -120,7 +120,7 @@ Shows differences in compensation between groups.
 ---
 
 # 👤 **Author**
-**Your Name**  
+**Uday Kiran**  
 [LinkedIn](www.linkedin.com/in/udaykiran-n) | [GitHub](https://github.com/udayy-n)
 
 ---
